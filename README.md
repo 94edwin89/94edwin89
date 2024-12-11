@@ -35,13 +35,25 @@ Welcome to my GitHub profile! I'm a dedicated MERN stack developer with a flair 
 ---
 
 ## 📂 Featured Projects
-### 🌟 **[Fast React Pizza](#)**
-A pizza ordering app built using React, Tailwind CSS, and Node.js.  
-- **Frontend**: React, Tailwind CSS  
-- **Backend**: Node.js, Express.js  
-- **Database**: MongoDB  
+### 🌟 **[The Wild Oasis](#)**
+This project Hotel booking contains - authentications, cabin page, booking,
+check-in/out, guest features, dashboard, settings, Dark mode.
+- **Frontend**: React, Tailwind CSS , Styled Componentes 
+- **Backend**:Express.js  
+- **Database**: Supabase   
 - **Live Demo**: [Check it out](#)  
-- **GitHub Repo**: [Repository](#)  
+- **GitHub Repo**: [Repository](https://github.com/94edwin89/The-wild-oasis)
+
+- ### 🌟 **[hair specialist static website](#)**
+This project contains - static webiste contain react-vite project, with functional image silder.
+- **Frontend**: React, Tailwind CSS
+- **Live Demo**: [Check it out](poppiehairandmakeup.in)  
+ 
+- ### 🌟 **[hair specialist static website](#)**
+This project build with react with bootsrap
+- **Frontend**: React, bootstrap CSS
+- **Live Demo**: [Check it out](qualityfishnets.com)  
+ 
 
 
 ---
