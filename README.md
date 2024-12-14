@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a skilled MERN stack developer with a passion 
 ---
 
 ## 💡 About Me  
-- 🔭 Currently working on dynamic and feature-rich projects with **React**, **Next.js**, and **Redux**.  
+- 🔭 Currently working on dynamic and feature-rich projects with **React**and **Redux**.  
 - 🌱 Always exploring new tools like **Supabase** and enhancing design skills with **Figma**.  
 - 💬 Open to collaborating on impactful web applications and UI/UX-focused projects.  
 - 🌍 Actively contributing to the developer community to share knowledge and grow together.  
